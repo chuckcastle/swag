@@ -1,1 +1,2 @@
-Insert some clever text here.\n
+SWAG 0.0.1
+Signal Warrior's Automated GUI
